@@ -1,0 +1,7 @@
+WEEK 4 ANSWERS
+How are Git commits connected?A. A commit object contains the SHA-1 of its child or children. B. A commit references its parent(s). C. The staging area lists the connections. Ans: B This is covered in 'Git's Graph Model'.
+What is a Git ID?A. The name of a Git object. B. The ID of the local repository. C. The user's name and email address. Ans: A This is covered in 'Git IDs'.
+If a large file changes by one character, what would you expect to happen to its corresponding SHA-1 value?A. It would slightly change. B. It would not change. C. It would change drastically. Ans: C This is covered in 'Git IDs'.
+What do branch labels point to?A. The most recent commit of a branch. B. The initial commit of a branch. C. Every commit of a branch. Ans: A This is covered in 'References'.
+How many HEAD references are in a local repository?A. One for each branch label. B. One for each commit. C. One. Ans: C This is covered in 'References'.
+Which one of these statements is correct?A. A tag always points to a specific commit. B. A tag is another name for a branch label. C. The HEAD reference always points to a tag. Ans: A This is covered in 'References'.
