@@ -1,0 +1,8 @@
+WEEK 10 ANSWERS
+After forking a repository, which one of these statements is true?A. The two repositories can not be synchronized. B. The two repositories will automatically remain synchronized. C. The commit histories of the two repositories may begin to differ. Ans: C
+Which one of these statements is true?A. Cloning a forked repository creates a local repository. B. There is no reason to clone a forked repository. C. A fork and a clone are the same thing. Ans: A
+Assume that you have a forked repository and an upstream repository. Who selects the merge strategy if a pull request is merged?A. The creator of the topic branch. B. The person merging the pull request. C. The requester. Ans: B
+Which one of these statements about centralized workflows is true?A. There is usually a single branch on the remote repository. B. Pull requests are common in centralized workflows. C. Using a centralized workflow is discouraged. Ans: A
+Which one of these statements about feature branch workflows is true?A. Using a feature branch workflow is discouraged. B. Pull requests are not possible in feature branch workflows. C. Most work is done on a feature branch. Ans: C
+Which one of these statements about forking workflows is true?A. Using a forking workflow is discouraged. B. The forked repository must have write access to the upstream repository. C. A forking workflow involves multiple remote repositories. Ans: C
+Which one of these statements about Gitflow workflows is true?A. Gitflow workflows can accomodate hotfixes. B. Gitflow workflows contain no long-running branches. C. Gitflow workflows work best with small projects. Ans: A
