@@ -1,0 +1,7 @@
+WEEK 1 ANSWERS
+Which one of these statements about Git is true?A. Git helps manage the history of the project. B. Each version of the project is called a branch. C. A commit containing one small change to a project is not practical. Ans: A This is covered in 'DevOps and Git in a Nutshell'.
+Which one of these statements about branches is true?A. The default branch is named "master". B. A branch contains a small part of the project. C. By default, a commit does not belong to a branch. Ans: A This is covered in 'DevOps and Git in a Nutshell'.
+What is a request to merge your branch into another branch called?A. Code review B. Automated test C. Pull request Ans: C This is covered in 'DevOps and Git in a Nutshell'.
+If a remote repository is offline, which one of the following is true?A. You must wait for the remote repository to become available. B. You can continue to work with the local repository. C. You can continue to work, but only with the current version of the project. Ans: B This is covered in 'DevOps and Git in a Nutshell'.
+Which one of the following is true?A. Git does not scale to large projects. B. Git is owned by a single company. C. Git implements distributed version control. Ans: C This is covered in 'Git Overview'.
+Which one of these statements about commits is true?A. A commit contains only the changes to the project since the previous commit. B. A commit is a snapshot of the project. C. Only the most recent commit is saved in the repository. Ans: B This is covered in 'Git Overview'.
