@@ -1,0 +1,7 @@
+WEEK 7 ANSWERS
+Which one of the following statements is true?A. A tracking branch label sometimes points to the same SHA-1 as the remote branch label. B. A tracking branch label always points to the same SHA-1 as the remote branch label. C. A tracking branch label never points to the same SHA-1 as the remote branch label. Ans: A
+Which one of the following is most likely to have tracking branches?A. The staging area. B. A remote repository. C. A local repository. Ans: C
+Immediately after you clone a repository, which one of these statements is most likely to be true?A. The local branch tip will be ahead of the tracking branch tip. B. There are no tracking branches. C. The tracking branch label and local branch label point to the same commit. Ans: C
+If you perform a fetch and new objects are retrieved, which one of these is most likely to be true?A. The local branch and tracking branch will contain the exact same commits. B. The local branch label and tracking branch label will point to the same commit. C. The tracking branch label will point to a new commit. Ans: C
+Which one of these statements is true?A. Pull does not update the local branch tip. B. Fetch does not update the local branch tip. C. Fetch may result in a merge conflict. Ans: B
+Which one of these statements is true?A. Pull combines fetch and merge. B. Pull combines fetch and push. C. Push combines fetch and merge. Ans: A
