@@ -1,0 +1,7 @@
+WEEK 3 ANSWERS
+Which one of these statements about remote repositories is true?A. A remote repository usually has a working tree. B. A remote repository usually has a staging area. C. By convention, remote repository names end in ".git". D. You must have one remote repository for each local repository. Ans: C This is covered in 'Create a Remote Repository'.
+What is a local copy of a remote repository called?A. Branch B. Origin C. Clone D. Master Ans: C This is covered in 'Push to a Remote Repository'.
+After you clone a repository, which one of the following is true?A. New commits to the local repository will automatically be pushed to the remote repository. B. The remote repository information is available in the local repository. C. New commits on the remote repository will automatically be added to the local repository. D. Only the most recent commit is available locally. Ans: B This is covered in 'Push to a Remote Repository'.
+What is origin?A. The default branch name. B. The first version of a file in the repository. C. An alias for the remote repository's URL. D. The first commit of the repository. Ans: C This is covered in 'Push to a Remote Repository'.
+What must you do to add a local commit to the remote repository?A. Push B. Stage C. Pull D. Merge Ans: A This is covered in 'Push to a Remote Repository'.
+In Git, what is modeled as a directed acyclic graph?A. The staging area. B. The working tree. C. The commit history. Ans: C This is covered in 'Git's Graph Model'.
