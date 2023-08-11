@@ -1,0 +1,7 @@
+WEEK 5 ANSWERS
+What happens when a branch is created?A. The HEAD reference changes. B. A branch label is created. C. Commits are copied. Ans: B This is covered in 'Branches'.
+Which one of these statements is correct?A. Checkout updates the working tree and HEAD reference. B. Checkout prevents others from changing a branch. C. Checkout retrieves content from the remote repository. Ans: A This is covered in 'Branches'.
+What does a detached HEAD mean?A. The HEAD reference does not point to anything. B. The HEAD reference points to a branch label. C. The HEAD reference points directly to a commit SHA-1. Ans: C This is covered in 'Branches'.
+What does “deleting a branch” immediately do?A. Deletes all of the commits of the branch. B. Deletes a branch label. C. Deletes only the commits that are unique to the branch. Ans: B This is covered in 'Branches'.
+Which one of the following statements is true?A. A commit can only belong to one branch at a time. B. A merge always creates a new commit. C. Merging combines the work of branches. ANS: C This is covered in 'Merging'.
+Which one of the following statements about fast-forward merges is true?A. The merge moves a branch label. B. The merge may change some commits. C. The merge may result in a merge conflict. Ans: A This is covered in 'Merging'.
