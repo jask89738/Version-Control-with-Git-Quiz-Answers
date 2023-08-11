@@ -1,0 +1,8 @@
+WEEK 9 ANSWERS
+Which one of these statements is true?A. A pull request can act as a form of review and approval. B. A pull request can be made only when a branch is being merged. C. A pull request must be made from a forked repository. Ans: A
+Which one of these statements is true?A. A pull request merge can not be fast-forwarded. B. Merging a pull request may result in a merge conflict. C. Merging a pull request always creates a merge commit. Ans: B
+Which one of these statements is true?A. A pull request must include a forked repository. B. Pull requests can not be modified. C. Pull requests can facilitate team discussion. Ans: C
+When can you open a pull request?A. When you want feedback on your work. B. Only when the branch is created. C. Only when the branch is ready to be merged. Ans: A
+Which one of these is true about squash merges?A. A squash merge can result in deleted commits. B. A squash merge can not be done when merging a pull request. C. A squash merge creates a merge commit. Ans: A
+Which one of these statements is true?A. A fork is considered the source of truth. B. A fork is a remote repository. C. A fork is an upstream repository. Ans: B
+Which one of statements about forks is true?A. The upstream respository never has access to the fork. B. The upstream repository always has access to the fork. C. The upstream repository may have access to the fork. Ans: C
