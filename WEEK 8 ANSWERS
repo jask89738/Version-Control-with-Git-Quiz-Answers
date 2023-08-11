@@ -1,0 +1,7 @@
+WEEK 8 ANSWERS
+A pull may result in which one of the following?A. A new checked out branch. B. A merge commit on the remote repository. C. A fast-forward merge. Ans: C
+When should you avoid rebasing a branch?A. Always. B. If you have shared the branch. C. If a merge conflict occurs. Ans: B
+Which one of the following statements is true?A. A rebase never results in a merge conflict. B. A rebase always results in a merge conflict. C. A rebase may result in a merge conflict. Ans: C
+Which one of the following statements is true?A. A rebase never rewrites the commit history. B. A rebase may rewrite the commit history. C. A rebase always rewrites the commit history. Ans: C
+Which one of the following statements is true?A. A rebase always creates a merge commit. B. A rebase may result in a merge conflict. C. Rebasing a topic branch involves checking out the base branch. Ans: B
+Which one of the following statements is true?A. An interactive rebase never removes existing commits. B. An interactive rebase may involve a single branch. C. An interactive rebase must involve two or more branches. Ans: B
